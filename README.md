@@ -1,16 +1,18 @@
-## Hi there 👋
+# Ethos Apps
 
-<!--
-**corybytheway/corybytheway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder building apps for filmmakers & creators.
 
-Here are some ideas to get you started:
+## What I’m shipping
+- **Meta Note** – notes + shot lists for filmmaking workflows
+- **Meta Note for macOS** – desktop companion for the field app
+- **Recording Station** – core recording + data ingest experiments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+Swift / SwiftUI / SwiftData, iOS + macOS, Python (scripting + automation)
+
+## Connect
+- Website: ethosapps.dev
+- YouTube: Behind The Film
+- Writing: newsletter link on ethosapps.dev
+
+> If you’re building tools for creators, I’m always down to collaborate.
