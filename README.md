@@ -1,6 +1,6 @@
 # Ethos Apps
 
-Founder building apps for filmmakers & creators.
+Purpose-driven apps. Intelligently designed
 
 ## What I’m shipping
 - **Meta Note** – notes + shot lists for filmmaking workflows
