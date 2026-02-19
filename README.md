@@ -1,6 +1,6 @@
 # Ethos Apps
 
-Purpose-driven apps. Intelligently designed  
+Purpose-driven apps. Intelligently designed<br>
 Development & design studio with a passion for creating unique and elegant experiences in software 💠
 
 ## What I’m shipping
@@ -15,4 +15,5 @@ Swift / SwiftUI / SwiftData, iOS + macOS, Python, Apple Shortcuts, Zapier, scrip
 - Website: ethosapps.dev
 - LinkedIn: linkedin.com/company/EthosApps
 - Email: hello@ethosapps.dev
+
 > If you’re building tools for creators, I’m always down to collaborate.
