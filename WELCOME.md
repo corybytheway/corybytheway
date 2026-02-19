@@ -1,6 +1,5 @@
 # Ethos Apps
-
-Purpose-driven apps. Intelligently designed
+Purpose-driven apps. Intelligently designed  
 Development & design studio with a passion for creating unique and elegant experiences in software 💠
 
 ## What I’m shipping
