@@ -1,7 +1,7 @@
 # Ethos Apps
 
-Purpose-driven apps. Intelligently designed<br>
-Development & design studio with a passion for creating unique and elegant experiences in software 💠
+<p>Purpose-driven apps. Intelligently designed<br>
+Development & design studio with a passion for creating unique and elegant experiences in software 💠</p>
 
 ## What I’m shipping
 - **Meta Note** – notes + shot lists for filmmaking workflows
