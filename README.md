@@ -15,4 +15,4 @@ Swift / SwiftUI / SwiftData for iOS & macOS, plus automation scripts in Python.
 - Meta Note: BehindTheFilm.com/metanote
 - Video work: BehindTheFilm.com
 
-If you want to collaborate or partner on creator tools, reach out via my site.
+If you want to collaborate or partner on something beautiful, reach out on my website.
