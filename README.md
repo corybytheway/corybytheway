@@ -1,0 +1,18 @@
+# Ethos Apps
+Purpose-driven apps. Intelligently designed<br>
+Development & design studio with a passion for creating unique and elegant experiences in software 🐠
+
+## What I'm building
+- Meta Note — notes + shot lists for production
+- Meta Note (macOS) — planning + desktop companion
+- Recording Station — ingest + recording pipeline experiments
+
+## How I build
+Swift / SwiftUI / SwiftData for iOS & macOS, plus automation scripts in Python.
+
+## Links
+- Website: ethosapps.dev
+- Meta Note: BehindTheFilm.com/metanote
+- Video work: BehindTheFilm.com
+
+If you want to collaborate or partner on creator tools, reach out via my site.
