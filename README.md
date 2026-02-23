@@ -7,8 +7,8 @@ Development & design studio with a passion for creating unique and elegant exper
 - Meta Note (macOS) — planning + desktop companion
 - Recording Station — ingest + recording pipeline experiments
 
-## How I build
-Swift / SwiftUI / SwiftData for iOS & macOS, plus automation scripts in Python.
+## Tech Stack
+Swift / SwiftUI iOS, iPaadOS, & macOS, Supabase for database and authentication, plus automation scripts in Python.
 
 ## Links
 - Website: ethosapps.dev
