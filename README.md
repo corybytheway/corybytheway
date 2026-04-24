@@ -1,5 +1,5 @@
 # Ethos
-Purpose-driven apps. Intelligently designed<br>
+Purpose-driven results. Intelligently designed<br>
 Development & design studio with a passion for creating unique and elegant experiences in software 🐠
 
 ## What I'm building
