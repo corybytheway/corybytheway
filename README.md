@@ -12,7 +12,7 @@ Swift / SwiftUI iOS, iPaadOS, & macOS, Supabase for database and authentication,
 
 ## Links
 - Website: ethosapps.dev
-- Meta Note: BehindTheFilm.com/metanote
-- Video work: BehindTheFilm.com
+- Meta Note: MetaNote.pro
+- Video work: CoryMcCabe.com
 
 If you want to collaborate or partner on something beautiful, reach out on my website.
